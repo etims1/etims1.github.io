@@ -3,18 +3,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>SmiteOracle</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/foundation.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/fontello.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/font-awesome.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/hint.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/jquery.fancybox.css" | prepend: site.baseurl }}" />
   <script src="{{ "/javascripts/libs.js" | prepend: site.baseurl }}" type="text/javascript"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-  <script type="text/javascript" src="{{ "/javascripts/jquery.fancybox.pack.js" | prepend: site.baseurl }}"></script>
   <script>
     // terrificjs bootstrap
     (function($) {
@@ -30,11 +26,6 @@
             application.start();
         });
     })(Tc.$);
-  </script>
-  <script type="text/javascript">
-	$(document).ready(function() {
-		$(".fancybox").fancybox();
-	});
   </script>
   <link href="http://fonts.googleapis.com/css?family=Raleway:400,700,300" media="screen" rel="stylesheet" type="text/css" />
   <script src="{{ "/javascripts/masonry.pkgd.js" | prepend: site.baseurl }}" type="text/javascript"></script>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Some interesting post
+title:  Look what we have done
 date:   2015-04-14 10:52:12
 images: images/@stock/blog-1.jpg
 excerpt:
