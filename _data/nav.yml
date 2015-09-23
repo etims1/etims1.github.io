@@ -1,0 +1,11 @@
+- name: Home
+  path: index.html
+  section_id: home
+- name: God Guides
+  path: god-guides.html
+  section_id: guides
+- name: Blog
+  path: blog/
+  section_id: blog
+- name: Youtube
+  path: youtube
