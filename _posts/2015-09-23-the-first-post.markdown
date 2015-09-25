@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  What's new in Patch 26546
-date:   2015-04-14 10:58:12
-images:
-  - images/@stock/blog-3.jpg
-  - images/@stock/blog-2.jpg
+title:  22nd Sept Patch Notes
+date:   2015-09-23 13:32:00
+images: images/blog/22-sept-patch-image.jpg
 excerpt:
-  Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
-categories: Logo Development
+  This patch we see the Blink family nerfed, Deathbringer receives a Critical Chance reduction. Zeus is rebuilt, Xing Tian sees significant changes and there are minor updates to several other gods.
 ---
 
 Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi
