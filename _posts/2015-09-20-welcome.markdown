@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Welcome to Smite Oracle
+date:   2015-09-20 11:50:00
+images: images/blog/blog-welcome.jpg
+excerpt:
+  Welcome to Smite Oracle, the place for beginners to learn how to play smite gods. This website is newly launched, so is yet to reach its full potential, and does not include guides for all smite gods.
+---
+
+Welcome to Smite Oracle, the place for beginners to learn how to play smite gods. This website is newly launched, so is yet to reach its full potential, and does not include guides for all smite gods. However we are starting with the most popular gods, and within a month or two we will have guides for all gods.
+
+We hope to add guides for items each class should consider, and more in-depth guides for playing conquest.
+
+This blog will have run downs on the most important and interesting changes in patch updates and we will attempt to provide analysis where appropriate. And we will keep you up to date on smite news and annoucements as well, so check back occasionally.
+
+If you come across any errors, have any suggestions or want to send us a message, the best way to do so is via Twitter.
+
+Enjoy Smite Oracle.
