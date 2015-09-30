@@ -24,6 +24,11 @@
 /* Layout helpers
 ----------------------------------*/
 
+.itallic {
+    font-weight: 400;
+  font-style: italic;   
+}
+
 .float-left { float: left; }
 
 .icon img {
