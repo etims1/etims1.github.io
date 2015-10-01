@@ -7,5 +7,3 @@
 - name: Blog
   path: blog/
   section_id: blog
-- name: Youtube
-  path: youtube
