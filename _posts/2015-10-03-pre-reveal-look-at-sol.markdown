@@ -43,4 +43,23 @@ Sol unleashes all her flame and fury from the sky, striking 8 times along a move
 
 [![]({{site.url}}/images/blog/pre-reveal-sol/kit-4.jpg)](http://127.0.0.01:4000/images/blog/pre-reveal-sol/kit-4.mp4)
 
+***
+
+####Analysis
+
+HiRez's aim with Sol is to create a multi-role, Basic Attack focused Mage. [sentences about her abilities, and how they have achieved this]
+
+> "... she would not be a traditional mid lane Mage, but rather have flexibility in a number of different roles." - HiRez Dev Q&A
+
+Sol is set up to be quite the Pusher.
+
+> "Her in-hand damage versus towers is exceptional once her passive reaches full Heat, making her great for pushing" - HiRez Dev Q&A
+
+
+She likely has High Sustain due to a self-heal (and damaging) ability, Radiance.
+
+***
+
 Hungry for more information on Sol? Take a look at Sol's [Dev Insights page](http://www.smitegame.com/promo/god-reveal/sol/).
+
+What do you think of Sol's kit?
