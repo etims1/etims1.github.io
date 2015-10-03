@@ -7,7 +7,7 @@ excerpt:
   Welcome to Smite Oracle, the place for beginners to learn how to play smite gods. This website is newly launched, so is yet to reach its full potential, and does not include guides for all smite gods.
 ---
 
-Welcome to Smite Oracle, the place for smite fans to learn how to play different smite gods. This website is newly launched, so is yet to reach its full potential, and does not include guides for all smite gods. However we are starting with the most popular gods, and within a month or two we will have guides for all gods.
+Welcome to Smite Oracle, the place for to learn how to play different smite gods. This website is newly launched, so is yet to reach its full potential, and does not include guides for all smite gods. However we are starting with the most popular gods, and within a month or two we will have guides for all gods.
 
 We hope to add guides for items each class should consider, and more in-depth guides for playing conquest.
 
