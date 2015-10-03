@@ -49,7 +49,7 @@ HiRez believed Deathbringer was simply too powerful, saying "While effective, it
 
 Only substantial changes are includes in this section, to read about minor fixes and minor additions see the full patch notes.
 
-![](http://etims1.github.io/images/blog/bacchus-inpost.jpg)
+![](http://etims1.github.io/images/blog/22nd-sept-15-patch-notes/bacchus-inpost.jpg)
 
 #####Bacchus
 
@@ -57,7 +57,7 @@ Only substantial changes are includes in this section, to read about minor fixes
 
 ***
 
-![](http://etims1.github.io/images/blog/khepri-inpost.jpg)
+![](http://etims1.github.io/images/blog/22nd-sept-15-patch-notes/khepri-inpost.jpg)
 
 #####Khepri
 
@@ -67,7 +67,7 @@ Only substantial changes are includes in this section, to read about minor fixes
 
 ***
 
-![](http://etims1.github.io/images/blog/xing-tian-inpost.jpg)
+![](http://etims1.github.io/images/blog/22nd-sept-15-patch-notes/xing-tian-inpost.jpg)
 
 #####Xing Tian
 
@@ -90,7 +90,7 @@ Xing Tian's cahnges relove around improving player experience, HiRez said:
 
 ***
 
-![](http://etims1.github.io/images/blog/zeus-inpost.jpg)
+![](http://etims1.github.io/images/blog/22nd-sept-15-patch-notes/zeus-inpost.jpg)
 
 #####Zeus
 
