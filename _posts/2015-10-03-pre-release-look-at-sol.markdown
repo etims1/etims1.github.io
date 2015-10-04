@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Pre-release Look at Sol (New God)
+title:  A Pre-release Look at Sol
 date:   2015-10-03 14:00:00
 images: images/blog/pre-release-sol.jpg
 author: Smite Oracle
