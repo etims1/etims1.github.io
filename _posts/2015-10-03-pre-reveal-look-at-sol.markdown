@@ -48,16 +48,19 @@ Sol unleashes all her flame and fury from the sky, striking 8 times along a move
 
 ####Analysis
 
-HiRez's aim with Sol is to create a multi-role, Basic Attack focused Mage. [sentences about her abilities, and how they have achieved this]
+HiRez's aim with Sol is to create a multi-role, Basic Attack focused Mage. 
 
 > "... she would not be a traditional mid lane Mage, but rather have flexibility in a number of different roles." - HiRez Dev Q&A
 
-Sol is set up to be quite the Pusher.
+Sol is set up to be an "exceptional" Pusher. This is mostly due to her Passive, Unstable Manifestation, which introduces the concept of Heat. As Sol uses her abilities (+10% Heat) and Basic Attacks (+5% Heat) she builds up Heat. For every 3% Heat she gains an additional +1% Magical Power and +1% Attack Speed. When she reaches 100% Heat her Basic Attacks deal +50% Damage. Additional Magical Power, Attack Speed and Damage will allow her to melt towers.
 
 > "Her in-hand damage versus towers is exceptional once her passive reaches full Heat, making her great for pushing" - HiRez Dev Q&A
 
+Sol will likely have High Sustain due to a self-heal (and damaging) ability, Radiance (1). 
 
-She likely has High Sustain due to a self-heal (and damaging) ability, Radiance.
+#####Heat
+
+Heat increases by +10% per ability and +5% with Basic Attacks. With the cooldown times of 15/10/15/90 it will take Sol approximately 45 seconds to get up to 100% Heat using only her four abilities (1/2/3/4, 1/2/3, 1/2/3). However Heat decreases oer time, so it will likely take at least a few seconds longer than 45 seconds.
 
 ***
 
