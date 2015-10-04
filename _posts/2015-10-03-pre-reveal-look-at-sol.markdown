@@ -29,7 +29,7 @@ Sol burns bright, gaining a large amount of Heat, healing herself over time for 
 
 Sol’s next Basic Attack explodes, creating a shockwave that travels out, dealing (40/70/100/130/160 + 35% of your Magical Power) damage. At full size, the wave retracts, dealing damage again and Slowing enemies. This ability provides 10% Heat. Cost: 60/65/70/75/80. Cooldown: 10s.
 
-[![]({{site.url}}/images/blog/pre-reveal-sol/kit-2.jpg)]({{site.url}}images/blog/pre-reveal-sol/kit-2.mp4)
+[![]({{site.url}}/images/blog/pre-reveal-sol/kit-2.jpg)]({{site.url}}/images/blog/pre-reveal-sol/kit-2.mp4)
 
 #####Disapparate (3)
 
