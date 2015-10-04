@@ -3,6 +3,7 @@ layout: post
 title:  Welcome to Smite Oracle
 date:   2015-09-20 11:50:00
 images: images/blog/blog-welcome.jpg
+author: Smite Oracle
 excerpt:
   Welcome to Smite Oracle, the place for beginners to learn how to play smite gods. This website is newly launched, so is yet to reach its full potential, and does not include guides for all smite gods.
 ---

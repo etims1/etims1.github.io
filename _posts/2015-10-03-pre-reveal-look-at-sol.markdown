@@ -3,6 +3,7 @@ layout: post
 title:  A Pre-reveal Look at Sol (New God)
 date:   2015-10-03 14:00:00
 images: images/blog/sol-blog.jpg
+author: Smite Oracle
 excerpt:
   We take a brief look at the soon to be released god Sol. She's a Basic Attack focused Mage, set up to be a solid pusher thanks to her Passive, granting her 'Heat'. At 100% Heat, her Basic Attacks deal +50% damage.
 ---

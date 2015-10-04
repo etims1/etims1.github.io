@@ -3,6 +3,7 @@ layout: post
 title:  22nd Sept Patch Notes
 date:   2015-09-23 13:32:00
 images: images/blog/22-sept-patch-image.jpg
+author: Smite Oracle
 excerpt:
   This patch we see the Blink family nerfed, Deathbringer receives a Critical Chance reduction. Zeus is rebuilt, Xing Tian sees numerous changes and there are updates to several other gods.
 ---
