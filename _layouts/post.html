@@ -21,7 +21,7 @@ section_id: blog
           </span>
           /
           <span>
-            <a href="#">4 comments</a>
+            <a href="{{post.url}}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
           </span>
         </p>
         <h3><a href="{{page.url}}">{{page.title}}</a></h3>
@@ -43,6 +43,12 @@ section_id: blog
                     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
                     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
                 })();
+                (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
             </script>
             <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
         
