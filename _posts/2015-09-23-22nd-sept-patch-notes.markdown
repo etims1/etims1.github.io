@@ -14,7 +14,7 @@ This patch we see the Blink family nerfed, Deathbringer receives a Critical Chan
 
 #####Blink Nerfed
 
-All three tiers of Blink have been nerfed, making them a much less attractive item to escape with. HiRez wanted to increase the distinction between Blinks, making it obvious by item stats which Blink is for initiation and which is for escape. As a result cooldown timers have been increased and time out of combat requirements have been increased. Cooldown timers are also now triggered upon taking damage, making it more clear when it is available.
+All three tiers of Blink have had cooldown timers increase, making them a much less attractive item to escape with. HiRez wanted to increase the distinction between Blinks, making it obvious by item stats which Blink is for initiation and which is for escape. As a result cooldown timers have been increased and time out of combat requirements have been increased. Cooldown timers are also now triggered upon taking damage, making it more clear when it is available.
 
 >"... In its previous form, it [blink] allowed for this mobility too often, and too early for the cost investment. By increasing the cooldown at early ranks, and keeping it mostly low on the highest ranks, players can still enjoy the engage potential of this active while feeling like they made a meaningful choice to pick it up. We also like this as an engage tool, so we nerfed the capability of escaping with it, highlighting Combat Blink as that choice." - HiRez
 
