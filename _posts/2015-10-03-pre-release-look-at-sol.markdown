@@ -60,7 +60,7 @@ Sol is set up to be an "exceptional" Pusher. This is mostly due to her Passive, 
 
 #####She can Carry
 
-Sol's passive gives her +1% Attack Speed per 3% Heat. This plus the +50% Damage increase will result in high base damage auto-atttacks. Built with appropriate items this may make it possible for Sol to be a legitimate choice for ADC (Attack Defense Carry).
+Sol's passive gives her +1% Attack Speed per 3% Heat. This plus the +50% Damage increase will result in high base damage auto-atttacks. Built with appropriate items this may make it possible for Sol to be a legitimate choice for ADC (All Damage Carry).
 
 Sol will likely have High Sustain, being able to stay in-lane for long periods, due to a self-heal (and damaging) ability, Radiance (1).
 
