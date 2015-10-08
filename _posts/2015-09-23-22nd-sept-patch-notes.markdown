@@ -20,20 +20,20 @@ All three tiers of Blink have had cooldown timers increase, making them a much l
 
 #####Blink
 
-+ Increased cooldown from 90s to 150s
++ Increased cooldown from 90s → 150s
 + Cooldown timer triggered on taking damage, making it more clear when its available
 
 #####Improved Blink
 
-+ Increased cooldown from 60s to 110s
-+ Time out of combat required is increased from 4s to 5s
++ Increased cooldown from 60s → 110s
++ Time out of combat required is increased from 4s → 5s
 + Cooldown timer triggered on taking damage, making it more clear when its available
 
 #####Greater Blink
 
-+ Increased cooldwon from 45s to 70s
++ Increased cooldwon from 45s → 70s
 + Movement Speed increased removed after blinking
-+ Time out of combat required increases from 3s to 5s
++ Time out of combat required increases from 3s → 5s
 + Cooldown timer triggered on taking damage, making it more clear when its available
 
 ***
@@ -42,7 +42,7 @@ All three tiers of Blink have had cooldown timers increase, making them a much l
 
 HiRez believed Deathbringer was simply too powerful, saying "While effective, it was slightly too effective at what it did and how it scaled with other items." and nerfed it by 10%.
 
-+ Reduced Critical Strike Damage increase from 50% to 40%
++ Reduced Critical Strike Damage increase from 50% → 40%
 
 ***
 
@@ -50,7 +50,7 @@ HiRez believed Deathbringer was simply too powerful, saying "While effective, it
 
 Only substantial changes are includes in this section, to read about minor fixes and minor additions see the full patch notes.
 
-![](http://etims1.github.io/images/blog/22nd-sept-15-patch-notes/bacchus-inpost.jpg)
+![](http://smiteoracle.com/images/blog/22nd-sept-15-patch-notes/bacchus-inpost.jpg)
 
 #####Bacchus
 
@@ -58,7 +58,7 @@ Only substantial changes are includes in this section, to read about minor fixes
 
 ***
 
-![](http://etims1.github.io/images/blog/22nd-sept-15-patch-notes/khepri-inpost.jpg)
+![](http://smiteoracle.com/images/blog/22nd-sept-15-patch-notes/khepri-inpost.jpg)
 
 #####Khepri
 
@@ -68,7 +68,7 @@ Only substantial changes are includes in this section, to read about minor fixes
 
 ***
 
-![](http://etims1.github.io/images/blog/22nd-sept-15-patch-notes/xing-tian-inpost.jpg)
+![](http://smiteoracle.com/images/blog/22nd-sept-15-patch-notes/xing-tian-inpost.jpg)
 
 #####Xing Tian
 
@@ -78,20 +78,20 @@ Xing Tian's cahnges relove around improving player experience, HiRez said:
 
 #####Furious Roar
 
-+ Decreased damage-over-time from 1.5/2/2.5/3/3.5 to 1/2/2/3/3
-+ Decreased damage-over-time from 2.5% per 0.5s to 4% per 1s
++ Decreased damage-over-time from 1.5/2/2.5/3/3.5 → 1/2/2/3/3
++ Decreased damage-over-time from 2.5% per 0.5s → 4% per 1s
 
 #####Whirlwind of Range and Steal
 
 + Targets are now immune to Crowd Control while grabbed
-+ Increased warm-up time from 0.6s to 0.75s
-+ Decreased damage from 50/75/100/125/150 to 15/25/35/45/55
++ Increased warm-up time from 0.6s → 0.75s
++ Decreased damage from 50/75/100/125/150 → 15/25/35/45/55
 + Increased damage for each subsequent spin x2/x2.4/x2.8 after the inital hit
-+ Magical scaling reduced from 50% to 20%
++ Magical scaling reduced from 50% → 20%
 
 ***
 
-![](http://etims1.github.io/images/blog/22nd-sept-15-patch-notes/zeus-inpost.jpg)
+![](http://smiteoracle.com/images/blog/22nd-sept-15-patch-notes/zeus-inpost.jpg)
 
 #####Zeus
 
@@ -101,9 +101,9 @@ Zeus has the biggest impact change for any god we see this patch, gaining a new 
 
 #####Chain Lightning
 
-+ Decreased bounce delay from 0.4s to 02s
-+ Reduced damage from 45/85/125/165/205 to 40/70/100/130/160
-+ Increased cooldown from 8s to 10s
++ Decreased bounce delay from 0.4s → 0.2s
++ Reduced damage from 45/85/125/165/205 → 40/70/100/130/160
++ Increased cooldown from 8s → 10s
 + Now applies a 30% slow to targets for 2s
 
 #####Aegis Assault
