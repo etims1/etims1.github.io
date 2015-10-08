@@ -117,6 +117,8 @@ Base Stats
 
 ***
 
+![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/apollo-inpost.jpg)
+
 #####Apollo
 
 #####The Moves 
@@ -139,6 +141,8 @@ Awilix's Ultimate can now pull enemies through walls. HiRez's reasoning was:
 
 ***
 
+![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/cabrakan-inpost.jpg)
+
 #####Cabrakan
 
 Refraction Shield is now usable faster.
@@ -148,6 +152,8 @@ Refraction Shield is now usable faster.
 + Reduced Cooldown from 14/13/12/11/10 → 10 at all ranks.
 
 ***
+
+![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/chaac-inpost.jpg)
 
 #####Chaac
 
@@ -183,6 +189,8 @@ Hou Yi has Richocht's cooldown timers reduced to give players a better expeirenc
 + Increased Physical Damage Scaling from 30 → 60%.
 
 ***
+
+![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/mercury-inpost.jpg)
 
 #####Mercury
 
