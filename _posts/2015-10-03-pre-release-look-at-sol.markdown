@@ -14,9 +14,9 @@ excerpt:
 
 #####Unstable Manifestation (Passive)
 
-Sol gains Heat as she uses abilities and hits with Basic Attacks. She gains +1% Magical Power and +1% Attack Speed for every 3% Heat. At 100% Heat, Sol’s Basic Attacks gain +50% Damage. Heat decreases over time.
+Sol gains Heat as she uses abilities and hits with Basic Attacks. She gains +1% Magical Power and +1% Attack Speed for every 3% Heat. At 100% Heat, Sol’s Basic Attacks gain ~~+50%~~ +35% Damage (correct at release). Heat decreases over time.
 
-Basic Attacks : +5% Heat
+Basic Attacks provide +5% Heat.
 
 [![]({{site.url}}/images/blog/pre-release-sol/kit-0.jpg)]({{site.url}}/images/blog/pre-release-sol/kit-0.mp4)
 
@@ -34,7 +34,7 @@ Sol’s next Basic Attack explodes, creating a shockwave that travels out, deali
 
 #####Disapparate (3)
 
-Sol burns down her manifestation, gaining Movement Speed (30/35/40/45/50%) and ignoring all Movement Penalties, while leaving a trail of fire behind her that damages enemies (20/40/60/80/100 + 25% of your Magical Power) every .5 seconds. After 3s Sol loses corporeal form for a short time and her trail explodes, Stunning enemies for 1.5s. Sol may leave her incorporeal form early. This ability provides 10% Heat. Cost: 60. Cooldown: 15s.
+Sol burns down her manifestation, gaining Movement Speed (~~30/35/40/45/50%~~ 20/25/25/25/30% (correct at release)) and ignoring all Movement Penalties, while leaving a trail of fire behind her that damages enemies (20/40/60/80/100 + 25% of your Magical Power) every .5 seconds. After 3s Sol loses corporeal form for a short time and her trail explodes, Stunning enemies for 1.5s. Sol may leave her incorporeal form early. This ability provides 10% Heat. Cost: 60. Cooldown: 15s.
 
 [![]({{site.url}}/images/blog/pre-release-sol/kit-3.jpg)]({{site.url}}/images/blog/pre-release-sol/kit-3.mp4)
 
