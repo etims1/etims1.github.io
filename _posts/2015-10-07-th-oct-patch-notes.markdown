@@ -56,7 +56,9 @@ Sol unleashes all her flame and fury from the sky, striking 8 times along a move
 
 ####God Changes
 
-![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/sobek-inpost.jpg)
+Only ability changes, accuracy fixes and the like are included in this section, to read about cosmetic changes and minor fixes see the full patch notes.
+
+![](http://smiteoralce.com/images/blog/inpost-banners/sobek-inpost.jpg)
 
 #####Sobek
 
@@ -79,7 +81,7 @@ Sobek's Mana costs have been reduced to allow him to use his abilities more ofte
 
 ***
 
-![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/tyr-inpost.jpg)
+![](http://smiteoralce.com/images/blog/inpost-banners/tyr-inpost.jpg)
 
 #####Tyr
 
@@ -90,7 +92,7 @@ Sobek's Mana costs have been reduced to allow him to use his abilities more ofte
 
 ***
 
-![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/xing-tian-inpost.jpg)
+![](http://smiteoralce.com/images/blog/inpost-banners/xing-tian-inpost.jpg)
 
 #####Xing Tian
 
@@ -104,7 +106,7 @@ Xing Tian's Ultimate, Whirlwind of Rage and Steel, has it's cooldown increased t
 
 ***
 
-![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/zhong-kui-inpost.jpg)
+![](http://smiteoralce.com/images/blog/inpost-banners/zhong-kui-inpost.jpg)
 
 #####Zhong Kui
 
@@ -117,7 +119,7 @@ Base Stats
 
 ***
 
-![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/apollo-inpost.jpg)
+![](http://smiteoralce.com/images/blog/inpost-banners/apollo-inpost.jpg)
 
 #####Apollo
 
@@ -127,7 +129,7 @@ Base Stats
 
 ***
 
-![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/awilix-inpost.jpg)
+![](http://smiteoralce.com/images/blog/inpost-banners/awilix-inpost.jpg)
 
 #####Awilix
 
@@ -141,7 +143,7 @@ Awilix's Ultimate can now pull enemies through walls. HiRez's reasoning was:
 
 ***
 
-![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/cabrakan-inpost.jpg)
+![](http://smiteoralce.com/images/blog/inpost-banners/cabrakan-inpost.jpg)
 
 #####Cabrakan
 
@@ -153,7 +155,7 @@ Refraction Shield is now usable faster.
 
 ***
 
-![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/chaac-inpost.jpg)
+![](http://smiteoralce.com/images/blog/inpost-banners/chaac-inpost.jpg)
 
 #####Chaac
 
@@ -165,6 +167,8 @@ Rain Dance has i's Crowd Control increased significantly.
 
 ***
 
+![](http://smiteoralce.com/images/blog/inpost-banners/he-bo-inpost.jpg)
+
 #####He Bo
 
 #####Atlas of the Yellow River
@@ -172,6 +176,8 @@ Rain Dance has i's Crowd Control increased significantly.
 + He Bo and his allies are now immune to Slow effects while on the River.
 
 ***
+
+![](http://smiteoralce.com/images/blog/inpost-banners/hou-yi-inpost.jpg)
 
 #####Hou Yi
 
@@ -190,7 +196,7 @@ Hou Yi has Richocht's cooldown timers reduced to give players a better expeirenc
 
 ***
 
-![](http://smiteoralce.com/images/blog/30th-oct-15-patch-notes/mercury-inpost.jpg)
+![](http://smiteoralce.com/images/blog/inpost-banners/mercury-inpost.jpg)
 
 #####Mercury
 
@@ -206,6 +212,8 @@ Hou Yi has Richocht's cooldown timers reduced to give players a better expeirenc
 
 ***
 
+![](http://smiteoralce.com/images/blog/inpost-banners/nemesis-inpost.jpg)
+
 #####Nemesis
 
 Nemesis's shield and damage reflection ability has it's cooldown decreased.
@@ -215,6 +223,8 @@ Nemesis's shield and damage reflection ability has it's cooldown decreased.
 + Reduced Cooldown from 18 → 16.
 
 ***
+
+![](http://smiteoralce.com/images/blog/inpost-banners/nox-inpost.jpg)
 
 #####Nox
 
