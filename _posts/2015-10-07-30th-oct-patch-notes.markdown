@@ -58,7 +58,7 @@ Sol unleashes all her flame and fury from the sky, striking 8 times along a move
 
 Only ability changes, accuracy fixes and the like are included in this section, to read about cosmetic changes and minor fixes see the full patch notes.
 
-![Image of the Smite God Sobek](http://smiteoralce.com/images/blog/inpost-banners/sobek-inpost.jpg)
+![Image of the Smite God Sobek](http://smiteoracle.com/images/blog/inpost-banners/sobek-inpost.jpg)
 
 #####Sobek
 
@@ -81,7 +81,7 @@ Sobek's Mana costs have been reduced to allow him to use his abilities more ofte
 
 ***
 
-![Image of the Smite God Tyr](http://smiteoralce.com/images/blog/inpost-banners/tyr-inpost.jpg)
+![Image of the Smite God Tyr](http://smiteoracle.com/images/blog/inpost-banners/tyr-inpost.jpg)
 
 #####Tyr
 
@@ -92,7 +92,7 @@ Sobek's Mana costs have been reduced to allow him to use his abilities more ofte
 
 ***
 
-![Image of the Smite God Xing Tian](http://smiteoralce.com/images/blog/inpost-banners/xing-tian-inpost.jpg)
+![Image of the Smite God Xing Tian](http://smiteoracle.com/images/blog/inpost-banners/xing-tian-inpost.jpg)
 
 #####Xing Tian
 
@@ -106,7 +106,7 @@ Xing Tian's Ultimate, Whirlwind of Rage and Steel, has it's cooldown increased t
 
 ***
 
-![Image of the Smite God Zhong Kui](http://smiteoralce.com/images/blog/inpost-banners/zhong-kui-inpost.jpg)
+![Image of the Smite God Zhong Kui](http://smiteoracle.com/images/blog/inpost-banners/zhong-kui-inpost.jpg)
 
 #####Zhong Kui
 
@@ -119,7 +119,7 @@ Base Stats
 
 ***
 
-![Image of the Smite God Apollo](http://smiteoralce.com/images/blog/inpost-banners/apollo-inpost.jpg)
+![Image of the Smite God Apollo](http://smiteoracle.com/images/blog/inpost-banners/apollo-inpost.jpg)
 
 #####Apollo
 
@@ -129,7 +129,7 @@ Base Stats
 
 ***
 
-![Image of the Smite God Awilix](http://smiteoralce.com/images/blog/inpost-banners/awilix-inpost.jpg)
+![Image of the Smite God Awilix](http://smiteoracle.com/images/blog/inpost-banners/awilix-inpost.jpg)
 
 #####Awilix
 
@@ -143,7 +143,7 @@ Awilix's Ultimate can now pull enemies through walls. HiRez's reasoning was:
 
 ***
 
-![Image of the Smite God Cabrakan](http://smiteoralce.com/images/blog/inpost-banners/cabrakan-inpost.jpg)
+![Image of the Smite God Cabrakan](http://smiteoracle.com/images/blog/inpost-banners/cabrakan-inpost.jpg)
 
 #####Cabrakan
 
@@ -155,7 +155,7 @@ Refraction Shield is now usable faster.
 
 ***
 
-![Image of the Smite God Chaac](http://smiteoralce.com/images/blog/inpost-banners/chaac-inpost.jpg)
+![Image of the Smite God Chaac](http://smiteoracle.com/images/blog/inpost-banners/chaac-inpost.jpg)
 
 #####Chaac
 
@@ -167,7 +167,7 @@ Rain Dance has i's Crowd Control increased significantly.
 
 ***
 
-![Image of the Smite God He Bo](http://smiteoralce.com/images/blog/inpost-banners/he-bo-inpost.jpg)
+![Image of the Smite God He Bo](http://smiteoracle.com/images/blog/inpost-banners/he-bo-inpost.jpg)
 
 #####He Bo
 
@@ -177,7 +177,7 @@ Rain Dance has i's Crowd Control increased significantly.
 
 ***
 
-![Image of the Smite God Hou Yi](http://smiteoralce.com/images/blog/inpost-banners/hou-yi-inpost.jpg)
+![Image of the Smite God Hou Yi](http://smiteoracle.com/images/blog/inpost-banners/hou-yi-inpost.jpg)
 
 #####Hou Yi
 
@@ -196,7 +196,7 @@ Hou Yi has Richocht's cooldown timers reduced to give players a better expeirenc
 
 ***
 
-![Image of the Smite God Mercury](http://smiteoralce.com/images/blog/inpost-banners/mercury-inpost.jpg)
+![Image of the Smite God Mercury](http://smiteoracle.com/images/blog/inpost-banners/mercury-inpost.jpg)
 
 #####Mercury
 
@@ -212,7 +212,7 @@ Hou Yi has Richocht's cooldown timers reduced to give players a better expeirenc
 
 ***
 
-![Image of the Smite God Nemesis](http://smiteoralce.com/images/blog/inpost-banners/nemesis-inpost.jpg)
+![Image of the Smite God Nemesis](http://smiteoracle.com/images/blog/inpost-banners/nemesis-inpost.jpg)
 
 #####Nemesis
 
@@ -224,7 +224,7 @@ Nemesis's shield and damage reflection ability has it's cooldown decreased.
 
 ***
 
-![Image of the Smite God Nox](http://smiteoralce.com/images/blog/inpost-banners/nox-inpost.jpg)
+![Image of the Smite God Nox](http://smiteoracle.com/images/blog/inpost-banners/nox-inpost.jpg)
 
 #####Nox
 
