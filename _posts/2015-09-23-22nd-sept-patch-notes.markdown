@@ -50,7 +50,7 @@ HiRez believed Deathbringer was simply too powerful, saying "While effective, it
 
 Only ability changes, accuracy fixes and the like are included in this section, to read about cosmetic changes and minor fixes see the full patch notes.
 
-![](http://smiteoracle.com/images/blog/inpost-banners/bacchus-inpost.jpg)
+![Image of the Smite God Bacchus](http://smiteoracle.com/images/blog/inpost-banners/bacchus-inpost.jpg)
 
 #####Bacchus
 
@@ -58,7 +58,7 @@ Only ability changes, accuracy fixes and the like are included in this section, 
 
 ***
 
-![](http://smiteoracle.com/images/blog/inpost-banners/khepri-inpost.jpg)
+![Image of the Smite God Khepri](http://smiteoracle.com/images/blog/inpost-banners/khepri-inpost.jpg)
 
 #####Khepri
 
@@ -68,7 +68,7 @@ Only ability changes, accuracy fixes and the like are included in this section, 
 
 ***
 
-![](http://smiteoracle.com/images/blog/inpost-banners/xing-tian-inpost.jpg)
+![Image of the Smite God Xing Tian](http://smiteoracle.com/images/blog/inpost-banners/xing-tian-inpost.jpg)
 
 #####Xing Tian
 
@@ -91,7 +91,7 @@ Xing Tian's cahnges relove around improving player experience, HiRez said:
 
 ***
 
-![](http://smiteoracle.com/images/blog/inpost-banners/zeus-inpost.jpg)
+![Image of the Smite God Zeus](http://smiteoracle.com/images/blog/inpost-banners/zeus-inpost.jpg)
 
 #####Zeus
 
