@@ -25,7 +25,22 @@ section_id: blog
           </span>
         </p>
         <h3><a href="{{page.url}}">{{page.title}}</a></h3>
-{{ content }}
+            {% if content contains "<!-- ad -->" %}
+            {{ content | split:"<!-- ad -->" | first % }}
+                            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- God Guides Ad -->
+                            <ins class="adsbygoogle"
+                                 style="display:block"
+                                 data-ad-client="ca-pub-4524139039737152"
+                                 data-ad-slot="9742009425"
+                                 data-ad-format="auto"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+            {{ content | split:"<!-- ad -->" | last % }}
+            {% else %}
+                {{ content }}
+            {% endif %}
     </div>
     </div>
     <div class='spacing'></div>
