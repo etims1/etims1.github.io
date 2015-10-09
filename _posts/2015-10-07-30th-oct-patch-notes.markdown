@@ -2,7 +2,7 @@
 layout: post
 title:  30th Oct Patch Notes
 date:   2015-10-07 15:00:00
-images: images/blog/30-oct-patch-image.jpg
+images: images/blog/30th-oct-patch-image.jpg
 author: Smite Oracle
 excerpt:
   This patch we see the new god, Sol released. A few item changes, including Shoe changes and Mail of Renewal is nerfed. Minor changes to multiple gods and greater changes to Sobek, Tyr and Zhong Kui.
