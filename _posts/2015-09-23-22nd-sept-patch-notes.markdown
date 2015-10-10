@@ -48,6 +48,8 @@ HiRez believed Deathbringer was simply too powerful, saying "While effective, it
 
 <!-- ad -->
 
+***
+
 ####God Changes
 
 Only ability changes, accuracy fixes and the like are included in this section, to read about cosmetic changes and minor fixes see the full patch notes.

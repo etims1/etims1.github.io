@@ -70,6 +70,8 @@ Sol unleashes all her flame and fury from the sky, striking 8 times along a move
 
 <!-- ad -->
 
+***
+
 ####God Changes
 
 Only ability changes, accuracy fixes and the like are included in this section, to read about cosmetic changes and minor fixes see the full patch notes.

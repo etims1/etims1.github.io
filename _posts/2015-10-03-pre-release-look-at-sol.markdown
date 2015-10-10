@@ -46,6 +46,10 @@ Sol unleashes all her flame and fury from the sky, striking 8 times along a move
 
 ***
 
+<!-- ad -->
+
+***
+
 ####Analysis
 
 HiRez's aim with Sol is to create a multi-role, Basic Attack focused Mage.
